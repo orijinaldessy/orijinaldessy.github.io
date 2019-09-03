@@ -1,6 +1,10 @@
 ---
 layout: post
-title: İlk 
+title: Merhaba Dünya!
 ---
 
-Bu gönderi test amaçlı yayınlanmıştır.
+Merhabalar,
+
+burası benim kişisel bloğum. Burada paylaşacağım yeni projelerimden haberdar olabilirsiniz. 
+
+/dessy
