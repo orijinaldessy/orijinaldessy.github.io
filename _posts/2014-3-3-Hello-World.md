@@ -3,8 +3,8 @@ layout: post
 title: Merhaba Dünya!
 ---
 
-Merhabalar,
+Merhaba, kişisel web sayfama hoş geldiniz.
 
-burası benim kişisel bloğum. Burada paylaşacağım yeni projelerimden haberdar olabilirsiniz. 
+Bu web sayfası aracılığı ile CV'me erişebilir, bana ulaşabilir, çalışmalarımdan ve yeni projelerimden haberdar olabilirsiniz.
 
 /dessy
