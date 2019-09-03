@@ -1,15 +1,9 @@
 ---
 layout: page
-title: About
+title: Hakkında
 permalink: /about/
 ---
 
-Some information about you!
+### Benimle İrtibata Geç
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[d.e.s.s.y@yandex.com](mailto:email@domain.com)
